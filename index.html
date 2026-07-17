@@ -241,6 +241,10 @@ main{padding-block:clamp(2rem,5vw,3rem) 5rem;}
 .contact-status{font-size:var(--text-xs);margin-top:0.7rem;text-align:center;min-height:1.2em;}
 .contact-status.ok{color:var(--color-success);}
 .contact-status.err{color:var(--color-error);}
+.contact-success{text-align:center;padding:1rem 0.5rem 0.5rem;}
+.contact-success svg{width:52px;height:52px;margin:0 auto 1rem;}
+.contact-success h3{font-family:var(--font-display);font-size:var(--text-lg);font-weight:800;color:var(--color-text);margin-bottom:0.4rem;}
+.contact-success p{font-size:var(--text-sm);color:var(--color-text-muted);}
 
 footer{border-top:1px solid var(--color-divider);color:var(--color-text-muted);font-size:var(--text-xs);text-align:center;padding:2rem 1rem 2.4rem;line-height:1.7;}
 footer b{color:var(--color-text);}
@@ -359,6 +363,11 @@ footer b{color:var(--color-text);}
         <button type="submit" class="modal-cta contact-submit" id="contactSubmitBtn">Send message</button>
         <div class="contact-status" id="contactStatus"></div>
       </form>
+      <div class="contact-success" id="contactSuccess" style="display:none;">
+        <svg viewBox="0 0 24 24" fill="none" stroke="var(--color-success)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><path d="m8 12 3 3 5-6"/></svg>
+        <h3>Message sent</h3>
+        <p>Thanks for reaching out — we'll get back to you soon.</p>
+      </div>
     </div>
   </div>
 </div>
@@ -530,6 +539,8 @@ document.getElementById("modalOverlay").addEventListener("click", ev=>{ if(ev.ta
 document.addEventListener("keydown", ev=>{ if(ev.key==="Escape"){ closeModal(); closeContactModal(); } });
 
 function openContactModal(){
+  document.getElementById("contactForm").style.display = "";
+  document.getElementById("contactSuccess").style.display = "none";
   document.getElementById("contactModalOverlay").classList.add("active");
 }
 function closeContactModal(){
@@ -560,16 +571,18 @@ document.getElementById("contactForm").addEventListener("submit", async function
       body: JSON.stringify(payload)
     });
     if(!res.ok) throw new Error("Request failed");
-    status.className = "contact-status ok";
-    status.textContent = "Thanks — your message has been sent.";
     this.reset();
+    this.style.display = "none";
+    document.getElementById("contactSuccess").style.display = "";
+    btn.disabled = false;
+    btn.textContent = "Send message";
+    return;
   } catch(err){
     status.className = "contact-status err";
     status.textContent = "Something went wrong — please try again, or email lyj898@gmail.com directly.";
-  } finally {
-    btn.disabled = false;
-    btn.textContent = "Send message";
   }
+  btn.disabled = false;
+  btn.textContent = "Send message";
 });
 
 document.getElementById("searchBox").addEventListener("input", e=>{ state.q = e.target.value.trim(); render(); });
