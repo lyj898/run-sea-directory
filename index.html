@@ -4,16 +4,35 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Run SEA — Southeast Asia Race Directory</title>
-<meta name="description" content="A directory of road half and full marathons across Southeast Asia — dates, distances, registration status, and official links, kept up to date.">
+<meta name="description" content="Find your next road half and full marathon race across Southeast Asia. Dates, distances, registration status, and official links for races in Singapore, Malaysia, Indonesia, Thailand, Vietnam, the Philippines, and more — kept up to date.">
+<meta name="robots" content="index, follow">
+<meta name="theme-color" content="#c8ff33">
 <link rel="canonical" href="https://runsea.run/">
+<link rel="sitemap" type="application/xml" href="https://runsea.run/sitemap.xml">
 <meta property="og:type" content="website">
 <meta property="og:site_name" content="Run SEA">
-<meta property="og:title" content="Run SEA — Southeast Asia Race Directory">
-<meta property="og:description" content="A directory of road half and full marathons across Southeast Asia — dates, distances, registration status, and official links, kept up to date.">
+<meta property="og:title" content="Run SEA — Find your next road race across Southeast Asia">
+<meta property="og:description" content="Find your next road half and full marathon race across Southeast Asia. Dates, distances, registration status, and official links — kept up to date.">
 <meta property="og:url" content="https://runsea.run/">
+<meta property="og:locale" content="en_US">
 <meta name="twitter:card" content="summary">
-<meta name="twitter:title" content="Run SEA — Southeast Asia Race Directory">
-<meta name="twitter:description" content="A directory of road half and full marathons across Southeast Asia — dates, distances, registration status, and official links, kept up to date.">
+<meta name="twitter:title" content="Run SEA — Find your next road race across Southeast Asia">
+<meta name="twitter:description" content="Find your next road half and full marathon race across Southeast Asia. Dates, distances, registration status, and official links — kept up to date.">
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "name": "Run SEA",
+  "alternateName": "Run SEA — Southeast Asia Race Directory",
+  "url": "https://runsea.run/",
+  "description": "A directory of road half and full marathons across Southeast Asia, sourced from official race sites and registration platforms.",
+  "inLanguage": "en",
+  "about": {
+    "@type": "Thing",
+    "name": "Road running races in Southeast Asia"
+  }
+}
+</script>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://api.fontshare.com/v2/css?f[]=general-sans@400,500,600,700&display=swap" rel="stylesheet">
@@ -126,8 +145,6 @@ h1,h2,h3{font-family:var(--font-display);line-height:1.05;letter-spacing:-0.01em
 .hero-track{position:absolute;inset:0;pointer-events:none;opacity:0.5;}
 .hero-track svg{width:100%;height:100%;}
 .hero-content{position:relative;max-width:820px;}
-.eyebrow{display:inline-flex;align-items:center;gap:0.5rem;font-size:var(--text-xs);font-weight:700;text-transform:uppercase;letter-spacing:0.08em;color:var(--color-text-muted);margin-bottom:1.1rem;}
-.eyebrow .dot{width:7px;height:7px;border-radius:50%;background:var(--color-primary);box-shadow:0 0 0 3px var(--color-primary-highlight);}
 .hero h1{font-size:var(--text-hero);font-weight:900;margin-bottom:1rem;}
 .hero h1 em{font-style:normal;color:transparent;-webkit-text-stroke:2px var(--color-text);}
 .hero p{font-size:var(--text-lg);color:var(--color-text-muted);max-width:52ch;font-family:var(--font-body);font-weight:400;line-height:1.5;margin-bottom:2rem;}
@@ -258,9 +275,7 @@ footer b{color:var(--color-text);}
 
 <div class="hero">
   <div class="container hero-content">
-    <div class="eyebrow"><span class="dot"></span>Refreshed nightly &middot; 11 countries</div>
-    <h1>Find your next <em>race</em> across Southeast Asia</h1>
-    <p>A directory of road half &amp; full marathons across ASEAN — sourced from official race sites and registration platforms.</p>
+    <h1>Find your next road half &amp; full marathon <em>race</em> across Southeast Asia</h1>
     <div class="hero-stats">
       <div class="stat"><b id="statRaces">144</b><span>Races tracked</span></div>
       <div class="stat"><b id="statCountries">11</b><span>Countries</span></div>
@@ -294,9 +309,9 @@ footer b{color:var(--color-text);}
 </main>
 
 <footer>
-  Data compiled from official organizer websites and race registration platforms, cross-checked where possible, and refreshed nightly.<br>
+  Data compiled from official organizer websites and race registration platforms, cross-checked where possible, and refreshed weekly.<br>
   Some listings marked <b>provisional</b> are still being confirmed — always check the official link before booking travel.<br>
-  Last updated 2026-07-17.
+  Last updated 2026-07-17 &middot; <b>runsea.run</b>
 </footer>
 
 <div class="modal-overlay" id="modalOverlay"><div class="modal" id="modalContent"></div></div>
