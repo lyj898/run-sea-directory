@@ -1,4 +1,4 @@
-:root{
+:root, [data-theme="light"]{
   --color-bg:#f5f5f2; --color-surface:#ffffff; --color-surface-2:#fbfbf9; --color-surface-offset:#eeeeea;
   --color-divider:#dedcd4; --color-border:#d8d6cc;
   --color-text:#15170f; --color-text-muted:#5c5f52; --color-text-faint:#9a9c8e;
@@ -8,6 +8,15 @@
   --radius-sm:0.375rem; --radius-md:0.625rem; --radius-lg:1rem; --radius-full:9999px;
   --shadow-sm:0 1px 2px rgba(21,23,15,.05); --shadow-md:0 6px 20px rgba(21,23,15,.08);
   --font-display:'Archivo','Helvetica Neue',sans-serif; --font-body:'General Sans','Helvetica Neue',sans-serif;
+}
+[data-theme="dark"]{
+  --color-bg:#12130f; --color-surface:#191a14; --color-surface-2:#1e1f18; --color-surface-offset:#212217;
+  --color-divider:#2c2d20; --color-border:#33341f;
+  --color-text:#eceee2; --color-text-muted:#a2a493; --color-text-faint:#6d6f5f;
+  --color-primary:#c8ff33; --color-primary-ink:#15170f; --color-primary-hover:#d6ff5c; --color-primary-highlight:#2b3418;
+  --color-success:#7ec788; --color-success-highlight:#1e3122;
+  --color-warning:#e0a752; --color-warning-highlight:#392c17;
+  --shadow-sm:0 1px 2px rgba(0,0,0,.3); --shadow-md:0 6px 20px rgba(0,0,0,.4);
 }
 *,*::before,*::after{box-sizing:border-box;margin:0;padding:0;}
 html{-webkit-text-size-adjust:none;text-size-adjust:none;}
@@ -23,6 +32,13 @@ a{color:inherit;text-decoration:none;}
 main.race-page{padding-block:2.5rem 3.5rem;}
 .back-link{display:inline-block;font-size:0.8125rem;font-weight:700;color:var(--color-text-muted);margin-bottom:1.5rem;}
 .back-link:hover{color:var(--color-text);}
+.breadcrumbs{font-size:0.8125rem;color:var(--color-text-muted);margin-bottom:1.5rem;}
+.breadcrumbs a{font-weight:700;}
+.breadcrumbs a:hover{color:var(--color-text);text-decoration:underline;}
+.breadcrumbs .sep{margin:0 0.35rem;color:var(--color-text-faint);}
+.about-section{margin-bottom:1.8rem;}
+.about-section h2{font-family:var(--font-display);font-size:1.05rem;font-weight:800;margin-bottom:0.6rem;}
+.about-section p{font-size:0.9375rem;color:var(--color-text-muted);line-height:1.75;}
 .race-flag{font-size:2rem;margin-bottom:0.5rem;}
 h1{font-family:var(--font-display);font-size:clamp(1.6rem,1rem+2.5vw,2.4rem);font-weight:900;line-height:1.1;letter-spacing:-0.01em;margin-bottom:0.6rem;}
 .race-meta{font-size:0.9375rem;color:var(--color-text-muted);margin-bottom:1.1rem;}
