@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://runsea.run/</loc>
-    <lastmod>2026-07-17</lastmod>
+    <lastmod>2026-07-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
@@ -32,7 +32,7 @@
   </url>
   <url>
     <loc>https://runsea.run/race/johor-night-half-marathon-2026-powered-by-jomrun/</loc>
-    <lastmod>2026-07-13</lastmod>
+    <lastmod>2026-07-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -50,13 +50,13 @@
   </url>
   <url>
     <loc>https://runsea.run/race/ultron-half-marathon-powered-by-caceis-putrajaya-2026/</loc>
-    <lastmod>2026-07-14</lastmod>
+    <lastmod>2026-07-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://runsea.run/race/nong-khai-running-festival-2026/</loc>
-    <lastmod>2026-07-16</lastmod>
+    <lastmod>2026-07-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -68,7 +68,7 @@
   </url>
   <url>
     <loc>https://runsea.run/race/cyberjaya-21k-2026/</loc>
-    <lastmod>2026-07-14</lastmod>
+    <lastmod>2026-07-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -105,6 +105,18 @@
   <url>
     <loc>https://runsea.run/race/ijm-allianz-duo-highway-challenge-2026/</loc>
     <lastmod>2026-07-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://runsea.run/race/scenic-half-marathon-rayong-rsmh-2026/</loc>
+    <lastmod>2026-07-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://runsea.run/race/national-milo-marathon-2026-davao-leg/</loc>
+    <lastmod>2026-07-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -182,7 +194,7 @@
   </url>
   <url>
     <loc>https://runsea.run/race/kota-kinabalu-half-marathon-2026/</loc>
-    <lastmod>2026-07-16</lastmod>
+    <lastmod>2026-07-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -194,7 +206,7 @@
   </url>
   <url>
     <loc>https://runsea.run/race/tangkak-merdeka-half-marathon-2026/</loc>
-    <lastmod>2026-07-16</lastmod>
+    <lastmod>2026-07-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -229,6 +241,18 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://runsea.run/race/ijen-geopark-run-2026/</loc>
+    <lastmod>2026-07-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://runsea.run/race/national-milo-marathon-2026-cagayan-de-oro-leg/</loc>
+    <lastmod>2026-07-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://runsea.run/race/travis-hegel-marathon-du-trans-penang-2026/</loc>
     <lastmod>2026-07-13</lastmod>
     <changefreq>weekly</changefreq>
@@ -254,7 +278,7 @@
   </url>
   <url>
     <loc>https://runsea.run/race/bromo-marathon-2026/</loc>
-    <lastmod>2026-07-16</lastmod>
+    <lastmod>2026-07-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -295,6 +319,12 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://runsea.run/race/national-milo-marathon-2026-cebu-leg/</loc>
+    <lastmod>2026-07-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://runsea.run/race/scenic-half-marathon-krabi-2026/</loc>
     <lastmod>2026-07-13</lastmod>
     <changefreq>weekly</changefreq>
@@ -315,6 +345,18 @@
   <url>
     <loc>https://runsea.run/race/sante-barley-trilogy-run-asia-2026-cebu-leg-3/</loc>
     <lastmod>2026-07-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://runsea.run/race/rawang-half-marathon-2026-powered-by-jomrun/</loc>
+    <lastmod>2026-07-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://runsea.run/race/national-milo-marathon-2026-tagbilaran-leg/</loc>
+    <lastmod>2026-07-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -344,7 +386,7 @@
   </url>
   <url>
     <loc>https://runsea.run/race/kluang-half-marathon-2026/</loc>
-    <lastmod>2026-07-16</lastmod>
+    <lastmod>2026-07-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -373,6 +415,12 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://runsea.run/race/national-milo-marathon-2026-dumaguete-leg/</loc>
+    <lastmod>2026-07-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://runsea.run/race/sp-half-marathon-2026/</loc>
     <lastmod>2026-07-14</lastmod>
     <changefreq>weekly</changefreq>
@@ -380,7 +428,7 @@
   </url>
   <url>
     <loc>https://runsea.run/race/amazing-thailand-pattaya-marathon-33rd-ed-2026/</loc>
-    <lastmod>2026-07-16</lastmod>
+    <lastmod>2026-07-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -398,24 +446,18 @@
   </url>
   <url>
     <loc>https://runsea.run/race/mekong-half-marathon-2026/</loc>
-    <lastmod>2026-07-16</lastmod>
+    <lastmod>2026-07-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://runsea.run/race/sante-barley-trilogy-run-asia-2026-davao-leg-3/</loc>
-    <lastmod>2026-07-14</lastmod>
+    <lastmod>2026-07-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://runsea.run/race/kuching-marathon-2026-km2026/</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://runsea.run/race/sante-barley-trilogy-run-asia-2026-davao-leg-3-e138/</loc>
     <lastmod>2026-07-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
@@ -447,6 +489,12 @@
   <url>
     <loc>https://runsea.run/race/techcombank-hanoi-international-marathon-5th-ed-2026/</loc>
     <lastmod>2026-07-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://runsea.run/race/national-milo-marathon-2026-bacolod-leg/</loc>
+    <lastmod>2026-07-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -488,13 +536,19 @@
   </url>
   <url>
     <loc>https://runsea.run/race/singapore-half-marathon-2026-powered-by-jomrun/</loc>
-    <lastmod>2026-07-16</lastmod>
+    <lastmod>2026-07-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://runsea.run/race/hoka-midnight-run-asia-2026-cebu/</loc>
     <lastmod>2026-07-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://runsea.run/race/national-milo-marathon-2026-vermosa-leg/</loc>
+    <lastmod>2026-07-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -507,6 +561,12 @@
   <url>
     <loc>https://runsea.run/race/mersing-half-marathon-powered-by-jomrun-2026/</loc>
     <lastmod>2026-07-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://runsea.run/race/national-milo-marathon-2026-puerto-princesa-palawan-leg/</loc>
+    <lastmod>2026-07-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -560,13 +620,31 @@
   </url>
   <url>
     <loc>https://runsea.run/race/mae-moh-half-marathon-2026/</loc>
-    <lastmod>2026-07-16</lastmod>
+    <lastmod>2026-07-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://runsea.run/race/terengganu-half-marathon-2026-powered-by-jomrun/</loc>
+    <lastmod>2026-07-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://runsea.run/race/selangor-marathon-2026/</loc>
     <lastmod>2026-07-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://runsea.run/race/minang-geopark-run-2026/</loc>
+    <lastmod>2026-07-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://runsea.run/race/scenic-half-marathon-chiang-mai-cmsh-2026/</loc>
+    <lastmod>2026-07-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -584,13 +662,19 @@
   </url>
   <url>
     <loc>https://runsea.run/race/bagan-marathon-bagan-temple-marathon-2026/</loc>
-    <lastmod>2026-07-16</lastmod>
+    <lastmod>2026-07-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://runsea.run/race/korat-marathon-2026/</loc>
     <lastmod>2026-07-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://runsea.run/race/national-milo-marathon-2026-urdaneta-leg/</loc>
+    <lastmod>2026-07-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -602,7 +686,7 @@
   </url>
   <url>
     <loc>https://runsea.run/race/bank-jateng-borobudur-marathon-2026/</loc>
-    <lastmod>2026-07-16</lastmod>
+    <lastmod>2026-07-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -680,7 +764,7 @@
   </url>
   <url>
     <loc>https://runsea.run/race/vientiane-international-marathon-2026/</loc>
-    <lastmod>2026-07-16</lastmod>
+    <lastmod>2026-07-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -693,6 +777,18 @@
   <url>
     <loc>https://runsea.run/race/bmw-brunei-international-half-marathon-bihm-2026/</loc>
     <lastmod>2026-07-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://runsea.run/race/yoma-mandalay-international-marathon-2026/</loc>
+    <lastmod>2026-07-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://runsea.run/race/national-milo-marathon-2026-national-finals/</loc>
+    <lastmod>2026-07-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -716,13 +812,19 @@
   </url>
   <url>
     <loc>https://runsea.run/race/scenic-marathon-nakhon-phanom-2026/</loc>
-    <lastmod>2026-07-16</lastmod>
+    <lastmod>2026-07-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://runsea.run/race/photak-marathon-6th-ed-2026/</loc>
     <lastmod>2026-07-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://runsea.run/race/cidb-half-marathon-2026/</loc>
+    <lastmod>2026-07-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -735,6 +837,12 @@
   <url>
     <loc>https://runsea.run/race/bangsaen21-2026/</loc>
     <lastmod>2026-07-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://runsea.run/race/bangkok-midnight-marathon-2026/</loc>
+    <lastmod>2026-07-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -764,24 +872,24 @@
   </url>
   <url>
     <loc>https://runsea.run/race/banka-run-fest-2027/</loc>
-    <lastmod>2026-07-16</lastmod>
+    <lastmod>2026-07-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://runsea.run/race/ciletuh-geopark-run-2027/</loc>
-    <lastmod>2026-07-16</lastmod>
+    <lastmod>2026-07-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://runsea.run/race/chombueng-marathon-40th-ed-2027/</loc>
+    <lastmod>2026-07-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://runsea.run/race/buriram-marathon-presented-by-chang-mineral-2027/</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://runsea.run/race/yoma-mandalay-international-marathon-2027/</loc>
     <lastmod>2026-07-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
@@ -794,13 +902,25 @@
   </url>
   <url>
     <loc>https://runsea.run/race/chiangrai-marathon-2027/</loc>
-    <lastmod>2026-07-16</lastmod>
+    <lastmod>2026-07-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://runsea.run/race/thai-sikh-run-31st-ed-2027/</loc>
+    <lastmod>2026-07-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://runsea.run/race/scenic-half-marathon-pranburi-2027/</loc>
+    <lastmod>2026-07-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://runsea.run/race/yoma-yangon-international-marathon-2027/</loc>
-    <lastmod>2026-07-16</lastmod>
+    <lastmod>2026-07-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -818,7 +938,7 @@
   </url>
   <url>
     <loc>https://runsea.run/race/carabao-half-marathon-carabao-marathon-2027/</loc>
-    <lastmod>2026-07-16</lastmod>
+    <lastmod>2026-07-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -835,8 +955,20 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://runsea.run/race/belitong-geopark-run-2027/</loc>
+    <lastmod>2026-07-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://runsea.run/race/terengganu-marathon-2027/</loc>
     <lastmod>2026-07-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://runsea.run/race/amazing-thabo-midnight-marathon-2027/</loc>
+    <lastmod>2026-07-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -847,8 +979,26 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://runsea.run/race/hatyai21-2027/</loc>
+    <lastmod>2026-07-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://runsea.run/race/scenic-half-marathon-chanthaburi-2027/</loc>
+    <lastmod>2026-07-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://runsea.run/race/laguna-phuket-marathon-2027/</loc>
     <lastmod>2026-07-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://runsea.run/race/manila-marathon-galaxy-manila-marathon-2027/</loc>
+    <lastmod>2026-07-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -859,14 +1009,8 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://runsea.run/race/manila-marathon-galaxy-manila-marathon-2027/</loc>
-    <lastmod>2026-07-14</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://runsea.run/race/mandiri-jogja-marathon-2027/</loc>
-    <lastmod>2026-07-16</lastmod>
+    <lastmod>2026-07-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
