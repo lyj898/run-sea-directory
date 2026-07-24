@@ -2,33 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://runsea.run/</loc>
-    <lastmod>2026-07-23</lastmod>
+    <lastmod>2026-07-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
-  </url>
-  <url>
-    <loc>https://runsea.run/race/pancasakti-run-2026/</loc>
-    <lastmod>2026-07-13</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://runsea.run/race/hoka-midnight-run-asia-2026-manila/</loc>
-    <lastmod>2026-07-14</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://runsea.run/race/puma-philippine-half-marathon-series-2026-davao/</loc>
-    <lastmod>2026-07-14</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://runsea.run/race/score-marathon-2026-by-aia-vitality/</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://runsea.run/race/johor-night-half-marathon-2026-powered-by-jomrun/</loc>
@@ -422,7 +398,7 @@
   </url>
   <url>
     <loc>https://runsea.run/race/bromo-marathon-2026/</loc>
-    <lastmod>2026-07-20</lastmod>
+    <lastmod>2026-07-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -656,7 +632,7 @@
   </url>
   <url>
     <loc>https://runsea.run/race/mekong-half-marathon-2026/</loc>
-    <lastmod>2026-07-20</lastmod>
+    <lastmod>2026-07-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -1160,7 +1136,7 @@
   </url>
   <url>
     <loc>https://runsea.run/race/yoma-mandalay-international-marathon-2026/</loc>
-    <lastmod>2026-07-20</lastmod>
+    <lastmod>2026-07-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -1383,6 +1359,12 @@
   <url>
     <loc>https://runsea.run/race/hatyai21-2027/</loc>
     <lastmod>2026-07-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://runsea.run/race/indonesia-women-half-marathon-2027/</loc>
+    <lastmod>2026-07-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
